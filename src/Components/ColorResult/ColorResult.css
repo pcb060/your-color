@@ -1,0 +1,15 @@
+.ColorResult {
+  border-radius: 8px;
+  padding: 20px 40px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#color-result {
+  display: block;
+  font-size: calc(20px + 3vmin);
+  font-weight: bold;
+}
+
+.reset-button-container {
+  position: absolute;
+}

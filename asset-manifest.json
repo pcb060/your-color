@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pcb060/your-color/static/css/main.5071b58f.chunk.css",
+    "main.js": "/pcb060/your-color/static/js/main.d3e17d13.chunk.js",
+    "main.js.map": "/pcb060/your-color/static/js/main.d3e17d13.chunk.js.map",
+    "runtime-main.js": "/pcb060/your-color/static/js/runtime-main.15223d02.js",
+    "runtime-main.js.map": "/pcb060/your-color/static/js/runtime-main.15223d02.js.map",
+    "static/js/2.c3f5a740.chunk.js": "/pcb060/your-color/static/js/2.c3f5a740.chunk.js",
+    "static/js/2.c3f5a740.chunk.js.map": "/pcb060/your-color/static/js/2.c3f5a740.chunk.js.map",
+    "index.html": "/pcb060/your-color/index.html",
+    "precache-manifest.84f6c65fb8caf5ed77bde35140b5379d.js": "/pcb060/your-color/precache-manifest.84f6c65fb8caf5ed77bde35140b5379d.js",
+    "service-worker.js": "/pcb060/your-color/service-worker.js",
+    "static/css/main.5071b58f.chunk.css.map": "/pcb060/your-color/static/css/main.5071b58f.chunk.css.map",
+    "static/js/2.c3f5a740.chunk.js.LICENSE.txt": "/pcb060/your-color/static/js/2.c3f5a740.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15223d02.js",
+    "static/js/2.c3f5a740.chunk.js",
+    "static/css/main.5071b58f.chunk.css",
+    "static/js/main.d3e17d13.chunk.js"
+  ]
+}

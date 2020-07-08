@@ -1,6 +1,6 @@
 import React from "react";
 import "./DateSelection.css";
-import calc from "../ColorCalc/ColorCalc";
+import calc from "../../Utils/ColorCalc";
 
 class DateSelection extends React.Component {
   constructor(props) {
